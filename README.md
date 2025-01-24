@@ -10,7 +10,7 @@ and searching for `examify`.
 Alternatively, you can use the CLI to kick this project off using the command:
 
 ```bash
-typst init @preview/examify:0.1.0
+typst init @preview/examify:0.1.1
 ```
 
 ## Configuration
@@ -26,7 +26,7 @@ code for reference:
   fonts: "New Computer Modern", // Change to your preferred font
   language: "EN",
   institute: "Institute Name", // Not Mandatory
-  author: "Teacher Name", // Not Mandatory
+  author: "Teacher Name",
   contact-details: "www.example.com", // Not Mandatory
   exam-name: "First Semester Examination", // Not Mandatory
   subject-label: "Subject",
