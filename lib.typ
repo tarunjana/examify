@@ -2,7 +2,7 @@
 // Main template function to be used by the document
 #let examify(
   paper-size: "a4",
-  fonts: "New Computer Modern",
+  font: "New Computer Modern",
   language: "EN",
   institute: none,
   author: none,
@@ -53,7 +53,7 @@
 
   // Text settings
   set text(
-    font: fonts,
+    font: font,
     size: 12pt,
     lang: language,
   )

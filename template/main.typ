@@ -2,7 +2,7 @@
 
 #show: examify.with(
   paper-size: "a4",
-  fonts: "New Computer Modern", // Change to your preferred font
+  font: "New Computer Modern", // Change to your preferred font
   language: "EN",
   institute: "Institute Name", // Not Mandatory
   author: "Teacher Name",
