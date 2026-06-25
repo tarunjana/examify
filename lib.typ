@@ -66,7 +66,7 @@
     grid(
       columns: 1fr,
       align: (center),
-      text(weight: "extrabold", size: 20pt, [#sym.angle.l.double #institute #sym.angle.r.double]),
+      text(weight: "extrabold", size: 20pt, [#sym.chevron.l.double #institute #sym.chevron.r.double]),
     )
   }
 
