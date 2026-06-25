@@ -10,7 +10,7 @@ and searching for `examify`.
 Alternatively, you can use the CLI to kick this project off using the command:
 
 ```bash
-typst init @preview/examify:0.1.1
+typst init @preview/examify:0.1.2
 ```
 
 ## Configuration
@@ -19,7 +19,7 @@ The `example.typ` file at the root of this repository is quite self-explanatory.
 code for reference:
 
 ```typst
-#import "@preview/examify:0.1.0": *
+#import "@preview/examify:0.1.2": *
 
 #show: examify.with(
   paper-size: "a4",
